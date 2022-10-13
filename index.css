@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    background: #1F2937;
+}
+
+header {
+    text-align: center;
+    padding: 1rem;
+    background: #6943FF;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+input {
+    display: block;
+    margin: auto;
+    background: transparent;
+    border: 0.125px solid #B295FF;
+    font-size: 3.625rem;
+    font-weight: 800;
+    width: 30%;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.5rem;
+}
+
+#convert-btn {
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    border: none;
+    margin-top: 1rem;
+}
+
+.unit-div {
+    width: 80%;
+    margin: auto;
+    margin-top: 1rem;
+    text-align: center;
+    background: #273549;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+
+h3 {
+    color: #CCC1FF;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.measure-paragraph {
+    color: #FFFFFF;
+    font-size: 14px;
+}
